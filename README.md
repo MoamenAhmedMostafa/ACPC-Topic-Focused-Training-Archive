@@ -33,6 +33,7 @@ We welcome contributions from everyone! To contribute:
          /a
             /prime_fact_sol.py
    ```
+* Even if the contest name on Codeforces is ``topic(diff)``, please ensure that the folder name is ``topic (diff)``. For example, ``graph(easy)`` is an incorrect folder name, even though it is the contest name on Codeforces. The correct folder name should be ``graph (easy)``.
 
 4. **Commit** and **push** your changes to your fork:
    ```bash
